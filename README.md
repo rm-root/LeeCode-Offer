@@ -1,2 +1,2 @@
 # LeeCode-Offer
-一个菜鸟的刷leecode题记录
+一个菜鸟刷leecode题的记录
